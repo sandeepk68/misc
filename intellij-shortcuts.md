@@ -13,13 +13,15 @@
 - terminal(opt+f12)
 - Basic completion(⌃Ctrl+Space), Smart type-matching completion(⌃Ctrl+⇧Shift+Space), Statement completion(⌘Сmd+⇧Shift+↩Enter)
 - Hippie completion(⌥Option+/)
+- complete statement(ctrl+shift+enter)
 - search everywhere(shift shift), prepend the search with / to search UI settings
 - close all other tabs(hold opt + click X)
 - Compare with clipboard(select 2 files and cmd+D)
 - Paste from history(cmd+shift+V)
 - Multiple selection(ctrl+G)(shift+ctrl+G)
-- 
-
+- parameter info(ctrl+p/ctrl+shift+p)
+- language injection(//language=JSON)
+- terminal in editor tab: right click -> move to editor
 
 
 - select text from cursor to end of file: cmd+shift+fn+rightArrow
